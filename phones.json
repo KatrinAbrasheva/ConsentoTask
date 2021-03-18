@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "img": "https://images.samsung.com/africa_en/smartphones/galaxy-s21/buy/galaxy-s21-phantom-violet.png",
+        "phoneName": "Samsung Galaxy S21",
+        "description": "The Samsung Galaxy S21 is a series of Android-based smartphones designed, developed, marketed, and manufactured by Samsung Electronics as part of its Galaxy S series. They collectively serve as the successor to the Galaxy S20 series.",
+        "moreInfo": "https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php"
+    },
+    {
+        "id": "2",
+        "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&amp;hei=1112&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1604021663000",
+        "phoneName": "Apple Iphone 12",
+        "description": "The iPhone 12 and iPhone 12 Mini (stylized as iPhone 12 mini) are smartphones designed, developed, and marketed by Apple Inc. They are the fourteenth-generation, lower-priced iPhones, succeeding the iPhone 11. They were unveiled at a virtually held Apple Special Event at Apple Park in Cupertino, California on October 13, 2020",
+        "moreInfo": "https://www.gsmarena.com/apple_iphone_12-10509.php"
+    },
+    {
+        "id": "3",
+        "img": "https://phonesdata.com/files/models/Huawei--Mate-30-Pro-880.png",
+        "phoneName": "Huawei Mate 30 Pro",
+        "description": "Huawei P30 is a line of Android-based smartphones manufactured by Huawei. Unveiled on 26 March 2019, they succeed the Huawei P20 in the company's P series line.",
+        "moreInfo": "https://www.gsmarena.com/huawei_p30_pro-9635.php"
+    },
+
+    {
+        "id": "4",
+        "img": "https://www.gizmochina.com/wp-content/uploads/2020/02/Motorola-Moto-G-Power-500x500.jpg",
+        "phoneName": "Moto G Power",
+        "description": "When you want a long lasting phone, get one of Motorola’s Moto G Power models. That continues with the 2021 version of this budget phone, which rides its 5,000 mAh battery to 14-hour-plus result on our battery test. That places the Moto G Power (2021) near the top of our list for best phone battery life, alongside last year’s edition.",
+        "moreInfo": "https://www.gsmarena.com/motorola_moto_g10_power-10778.php"
+    }
+]
